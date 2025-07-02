@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_card import card
-import base64
 from pages.utilities import *
 
 # st.image("assets/chocola.png")
