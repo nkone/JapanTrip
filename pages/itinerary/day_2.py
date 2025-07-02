@@ -1,7 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="Day 1", page_icon="🦈")
-st.title("Day 1")
+
+st.set_page_config(page_title="Day 2", page_icon="🦈")
+st.title("Day 2")
 st.header("Morning", divider="grey")
 st.header("Noon", divider="grey")
 
